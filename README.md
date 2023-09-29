@@ -5,6 +5,9 @@ Sd card needs to be in FAT32 and partition in PRIMARY.
 
 Tested:
 - 16GB
+- 512GB
+
+Problems with GBA roms ins some folders.
 
 ## Updates
 Format the SD card to FAT32,Place the ‘update.bin’ file in the root directory.Then insert the BurnMaster.
