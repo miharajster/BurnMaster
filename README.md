@@ -7,7 +7,7 @@ Tested:
 - 16GB
 - 512GB
 
-Problems with GBA roms ins some folders.
+Problems with GBA roms in some folders.
 
 ## Updates
 Format the SD card to FAT32,Place the ‘update.bin’ file in the root directory.Then insert the BurnMaster.
